@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">New York Times News</string>
+    <string name="most_emailed">Most Emailed</string>
+    <string name="most_shared">Most Shared</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_details">Details</string>
+    <string name="details_favorites">Details Favorites</string>
+    <string name="favorite_load_data_error">An error occurred while loading data.</string>
+    <string name="adding_to_favorites_successfully">Record was successfully added to favorites</string>
+    <string name="adding_to_favorites_error">Error added to favorites!!!</string>
+    <string name="removing_favorites_successfully">Record has been successfully removed from favorites.</string>
+    <string name="removing_favorites_error">Error occurred while deleting</string>
+</resources>
